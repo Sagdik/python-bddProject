@@ -1,0 +1,5 @@
+.idea
+venv
+Reports
+.pytest_cache
+screenshots
